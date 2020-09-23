@@ -7,6 +7,17 @@ vers6 = "Ik weet niet of u het kent maar het is nu best wel bekend."
 vers7 = "Het is een game over pain and betray en dat is waarom mijn vriend verdween ):."
 vers8 = "Weetje wat ik vind dit wel genoeg informatie among us geeft me al genoeg pijn en frustratie."
 vers9 = "Maar dit is waar ik stop want me inspiratie is op."
+
+print(vers1)
+print(vers2)
+print(vers3)
+print(vers4)
+print(vers5)
+print(vers6)
+print(vers7)
+print(vers8)
+print(vers9)
+
  
  
  

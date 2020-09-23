@@ -1,10 +1,25 @@
-Username = "username: NineVision"
-Hp = "hp: 27"
-Mana = "Mana: 367"
-Strength = "Strength: 57" 
-Items = "Items: tougher times, soldier syringe, sticky bombs, tesla coil, brilliant behemoth"
-Server = "People in server: 15"
-Speed = "Speed: 249"
-Level = "Level: 9001"
-Sanity = "Sanity: 100"
-Stamina = "Stamina: 999999999999"
+Username = "NineVision"
+Hp = '27'
+Mana = '367'
+Strength =  '57'
+Items = "tougher times, soldier syringe, sticky bombs, tesla coil, brilliant behemoth"
+Server = '15'
+Speed = '249'
+Level = '9001'
+Sanity = '100'
+Stamina = '999999999999'
+Inwater = True
+
+print("Username: " + Username)
+print("Hp: " + Hp)
+print("Strength: " + Strength)
+print("Items: " + Items)
+print("Players in server: " + Server)
+print("Speed: " + Speed)
+print("Level: " + Level)
+print("Sanity: " + Sanity)
+print("Stamina: " + Stamina)
+print("Inwater")
+print(Inwater)
+
+
